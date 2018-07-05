@@ -1,0 +1,4 @@
+[Options]
+dir_name = default
+root_dir = C:\Users\solil\Documents\dev\python3\meteoro\ET
+

@@ -1,0 +1,15 @@
+Tue, 02 May 2017 09:31:22 +0000
+
+Traceback (most recent call last):
+  File "C:\Users\solil\Documents\dev\python3\meteoro\ET\xET.py", line 64, in <module>
+    hs.calcular(db, estaciones, dir_out)
+  File "C:\Users\solil\Documents\dev\python3\meteoro\ET\hs.py", line 261, in calcular
+    lat_ro_days=self.ro_mm_days_year_get()
+  File "C:\Users\solil\Documents\dev\python3\meteoro\ET\hs.py", line 215, in ro_mm_days_year_get
+    for i, coef in enumerate(cs_S_ly):
+  File "C:\Users\solil\Documents\dev\python3\meteoro\ET\hs.py", line 215, in ro_mm_days_year_get
+    for i, coef in enumerate(cs_S_ly):
+  File "c:\python34\Lib\site-packages\eric6\DebugClients\Python\DebugBase.py", line 311, in trace_dispatch
+    raise SystemExit
+SystemExit
+
